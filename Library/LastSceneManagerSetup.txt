@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/BalloonShooting/BalloonShooting.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
